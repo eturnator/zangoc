@@ -4,4 +4,4 @@
 Bu paragrafta zangoc anlatirlir
 
 #Contact:
--email: [turnator](turnator@turnator.com)
+-email: [{{site.email}}]({{site.email}})
