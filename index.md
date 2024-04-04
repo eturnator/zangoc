@@ -1,3 +1,5 @@
+ {% include navigation.html %}
+
 # ZANGOC SAYFASI
 ## zangoc HAKKIMIZDA
 ### zangoc 3. SIRADA
