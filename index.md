@@ -1,4 +1,3 @@
- {% include navigation.html %}
 
 # ZANGOC SAYFASI
 ## zangoc HAKKIMIZDA
